@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(90deg, #d2b5f8, #f974ad);
+    background-color: #eeeeee;
     display: flex;
     justify-content: center;
     margin-top: 100px;
@@ -39,7 +39,8 @@ body {
 
 button {
     margin: 15px;
-    background: linear-gradient(90deg, #d2b5f8, #f974ad);
+    /* background: linear-gradient(90deg, #7e70a5, #ff7170); */
+    background-color: mediumseagreen;
     color: white;
 }
 
